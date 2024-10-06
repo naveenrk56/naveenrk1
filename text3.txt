@@ -1,3 +1,0 @@
-Hello this is text third file bro
-How was working going dude
-We have added text but we want add commit and push again
